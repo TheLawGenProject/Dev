@@ -1,2 +1,6 @@
 # Dev
-This is the Developer Respo. See details and rules within the Readme
+
+This is for members to add code that will be added to the main, but isn't quite ready.
+
+
+PR will not be accepted in this respo. 
